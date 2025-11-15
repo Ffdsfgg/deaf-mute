@@ -77,7 +77,7 @@ juwuyou/
 ├── esp32-s3/           # ESP32 音频采集固件 (C/C++)
 ├── kunpeng-board/      # 鲲鹏派 AI 推理代码 (Python/C++)
 ├── ai-services/        # Python AI 模块 (语音/手语/环境声)
-├── backend/            # Java 后端服务 (Spring Boot)
+├── backend/            # Java 后端服务
 ├── images/             # 项目截图和文档图片
 │   ├── 20251116013150_331_1.jpg
 │   ├── 20251116013152_332_1.jpg
