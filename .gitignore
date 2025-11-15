@@ -1,0 +1,36 @@
+# Java
+target/
+.mvn/
+
+# PlatformIO (ESP32)
+esp32-s3/.pio/
+esp32-s3/.vscode/
+esp32-s3/.clang*
+
+# Python
+
+
+cat > .gitignore <<EOF
+# Java
+target/
+.mvn/
+
+# PlatformIO (ESP32)
+esp32-s3/.pio/
+esp32-s3/.vscode/
+esp32-s3/.clang*
+
+# Python
+res/__pycache__/
+res/*.pyc
+res/.venv/
+res/env/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.DS_Store
